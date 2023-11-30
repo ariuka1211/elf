@@ -1,0 +1,20 @@
+nav {
+    width: 100vw;
+    height: 6vh;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    margin: 0 2rem 0 1rem;
+}
+li {
+    list-style-type: none;
+}
+.user-bar{
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: center;
+}
